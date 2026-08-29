@@ -13,7 +13,7 @@ altair>=5.0.0
 pillow>=10.0.0
 
 # Additional dependencies for ML workflow
-imbalanced-learn>=0.11.0
+imbalanced-learn>=0.11.0```````
 
 # Standard library replacements and utilities
 requests>=2.31.0
@@ -22,3 +22,4 @@ python-dateutil>=2.8.0
 pytz>=2023.3
 six>=1.16.0
 toml>=0.10.2
+scapy
